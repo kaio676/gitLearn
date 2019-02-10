@@ -8,6 +8,7 @@ namespace gitLearn
         {
             Console.WriteLine("Hello World!");
             System.Console.WriteLine("kaio");
+            System.Console.WriteLine("teste teste");
         }
     }
 }
